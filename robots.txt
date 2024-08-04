@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://operanam.github.io/sitemap.html.gz
+Sitemap: https://operanam.github.io/app/sitemap.html.gz
+Sitemap: https://operanam.github.io/assets/sitemap.html.gz
+Sitemap: https://operanam.github.io/css/sitemap.html.gz
+Sitemap: https://operanam.github.io/includes/sitemap.html.gz
+Sitemap: https://operanam.github.io/item/sitemap.html.gz
+Sitemap: https://operanam.github.io/src/sitemap.html.gz
